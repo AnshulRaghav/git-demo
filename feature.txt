@@ -4,4 +4,4 @@ This is for PR-Pull request.
 
 
 
-This is fetch committing. feature
+This is fetch committing.
